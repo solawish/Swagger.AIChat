@@ -10,6 +10,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9629EF12-8025-4D75-B32F-C6664A773F54}"
 	ProjectSection(SolutionItems) = preProject
 		.gitignore = .gitignore
+		demo.jpg = demo.jpg
 		Directory.Build.props = Directory.Build.props
 		README.MD = README.MD
 	EndProjectSection
